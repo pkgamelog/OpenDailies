@@ -1,0 +1,18 @@
+Welcome to OpenDailies!
+
+OpenDailies is a lightweight, frame-accurate desktop application built for:
+
+• 3D Artists
+• Gameplay Animators
+• Technical Animators
+• Motion Capture Artists
+• VFX Artists
+• Video Editors
+• Game Developers
+
+Developed by
+pkgamelog
+
+Powered by FFmpeg and Qt.
+
+Thank you for supporting independent software development.

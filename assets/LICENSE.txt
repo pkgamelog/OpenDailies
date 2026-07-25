@@ -1,0 +1,13 @@
+OpenDailies
+Copyright (c) 2026 pkgamelog
+
+This software is provided "AS IS", without warranty of any kind.
+
+OpenDailies uses several open-source projects including:
+
+• FFmpeg
+• Qt / PySide6
+
+Each third-party library remains under its respective license.
+
+Thank you to the open-source community whose work made this project possible.

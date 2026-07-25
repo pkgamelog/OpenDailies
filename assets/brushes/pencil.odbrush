@@ -1,0 +1,6 @@
+{
+    "name": "Pencil",
+    "texture_path": "assets/brushes/texture/pencil_grain.png",
+    "spacing": 4,
+    "pressure_size": true
+}

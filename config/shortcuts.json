@@ -1,0 +1,22 @@
+{
+    "Pen": "B",
+    "Pencil": "P",
+    "Rectangle": "R",
+    "Arrow": "A",
+    "Circle": "C",
+    "Text": "T",
+    "Eraser": "E",
+    "Undo": "Ctrl+Z",
+    "Clear Frame": "Delete",
+    "Brush Resize": "F",
+    "Play/Pause": "Space",
+    "Stop": "Esc",
+    "Prev Frame": "Left",
+    "Next Frame": "Right",
+    "Jump to Prev Annotation": ",",
+    "Jump to Next Annotation": ".",
+    "Loop": "L",
+    "Compare A/B": "Z",
+    "Toggle Annotations": "H",
+    "Toggle Timecode Overlay": "U"
+}

@@ -1,0 +1,2940 @@
+=================================================
+ OpenDailies - Quick Help & Shortcuts
+=================================================
+
+1. PLAYBACK & TIMELINE
+   - Spacebar: Play / Pause
+   - Right Arrow: Next Frame
+   - Left Arrow: Previous Frame
+   - Comma (,): Jump to Previous Annotation
+   - Period (.): Jump to Next Annotation
+
+2. ANNOTATIONS (Left Toolbar)
+   - pen: Standard smooth brush.
+   - Pencil: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```tch Brush: Standard smooth brush.
+   - Pencil: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```nd Brush: Standard smooth brush.
+   - Pencil: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+``` Smooth Brush: Standard smooth brush.
+   - Pencil: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```s Standard smooth brush.
+   - Pencil: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```n Standard smooth brush.
+   - Pencil: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+``` Standard smooth brush.
+   - Pencil: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```Standard smooth brush.
+   - Pencil: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```tandard smooth brush.
+   - Pencil: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+``` smooth brush.
+   - Pencil: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```ard smooth brush.
+   - Pencil: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```d smooth brush.
+   - Pencil: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```smooth brush.
+   - Pencil: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```ooth brush.
+   - Pencil: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```th brush.
+   - Pencil: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```brush.
+   - Pencil: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```sh.
+   - Pencil: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```Pencil: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```ncil: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```cil: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```il: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```l: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```: Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```Textured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```extured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```xtured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```tured brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```red brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```ed brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```d brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+``` brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```brush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```rush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```ush (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```sh (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```h (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+``` (responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```responds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```sponds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```onds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```ds to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```s to Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+``` Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```Pen Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```en Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```n Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+``` Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```Tablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```ablet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```blet pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```let pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```et pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```t pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+``` pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```pressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```ressure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```ssure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```ure).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```re).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```).
+   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```   - Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```- Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+``` Shapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```hapes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```apes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```pes: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```es: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```: Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```Click and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```lick and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```ick and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```ck and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```k and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+``` and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```and drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```nd drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```d drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```drag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```rag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```ag to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```g to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+``` to draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```o draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+``` draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```draw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```raw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```aw Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```w Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+``` Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```Rectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```ectangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```tangles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```angles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```ngles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```gles, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```les, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```s, Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+``` Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```Arrows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```rows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```ows, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```ws, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```, and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+``` and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```and Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```d Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+``` Circles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```ircles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```rcles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```cles.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```les.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```es.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
+```.
+   - Text: Click to place a text box.
+   - Eraser: Click on a stroke to delete it.
+   - Undo: Reverts the last action on the current frame.
+   - Clear Frame: Deletes all annotations on the current frame.
+
+3. ONION SKINNING
+   - Click the overlapping circles icon.
+   - Set "Before" (past frames) and "After" (future frames) to see them tinted Blue and Orange.
+   - Adjust Opacity to fade the onion skin.
+
+4. COMMENTS & BOOKMARKS (Right Panel)
+   - Comments are tied to the exact frame you are on. Double-click a comment to jump back to that frame.
+   - Bookmarks mark specific frames. They appear as colored triangles on the timeline.
+
+5. EXPORTING (File Menu)
+   - Export Trim: Quickly cuts the video using the Blue In/Out handles on the timeline.
+   - Export Playblast: Burns annotations, timecode, and subtitles directly into the video.
+   - Export SRT: Generates a subtitle file from your bookmarks.
+   - Export JSON: Exports all review data for pipeline integration.
+
+=================================================
+ For more tutorials and updates, visit:
+https://discord.gg/y4AdT3s87
+=================================================
