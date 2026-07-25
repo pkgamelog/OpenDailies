@@ -9,7 +9,7 @@ OpenDailies is a lightweight, high-performance video review and annotation tool 
 ---
 
 ### 🤖 A Quick Disclaimer (Transparency & AI)
-Just to be fully transparent: **I am an animator, not a professional software engineer.** I have been building OpenDailies with the heavy assistance of AI (like ChatGPT/Claude) to bring the tools I've always wanted into reality. 
+Just to be fully transparent: **I am an animator, not a professional software engineer.** I have been building OpenDailies with the heavy assistance of AI (like ChatGPT/GLM 5.2) to bring the tools I've always wanted into reality. 
 
 Because of this, the underlying codebase might not follow perfect enterprise-level software architecture, and you might find some quirky bugs! However, the app is built with a focus on real-world animation workflows, and it works. I’m learning as I go, and I welcome anyone who wants to contribute, optimize, or help clean up the code on GitHub!
 
