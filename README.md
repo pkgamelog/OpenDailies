@@ -1,7 +1,7 @@
 # 🎬 OpenDailies
 **The Open-Source Review Tool for Animators & VFX Artists**
 
-OpenDailies is a lightweight, high-performance video review and annotation tool tailored specifically for animation and VFX workflows. My goal is to bridge the gap between expensive studio software (like RV or Shotgrid) and clunky desktop players (like VLC). 
+OpenDailies is a lightweight, high-performance video review and annotation tool tailored specifically for animation and VFX workflows. My goal is to bridge the gap between expensive studio software and cloud limited platform apps . 
 
 [![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue)](https://github.com/pkgamelog/OpenDailies/releases)
 [![Join Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/BtKkfyuQN)
