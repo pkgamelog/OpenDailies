@@ -1,8 +1,3 @@
-Here is the final, fully copyable `README.md` file with your Discord link and GitHub username already integrated. 
-
-Just go to your GitHub repository, click the pencil icon on your `README.md` file, delete everything in it, and paste this exact block of text:
-
-```markdown
 # 🎬 OpenDailies
 **The Open-Source Review Tool for Animators & VFX Artists**
 
